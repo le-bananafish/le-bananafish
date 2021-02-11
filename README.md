@@ -24,11 +24,11 @@ My goal for 2021, as mentioned in this (:point_right:) [post][ny-resolution], is
 These are the latest posts on my very own [website][website].
 
 <!-- BLOG-POST-LIST:START -->
+- [The Price of Wisdom](https://le-bananafish.github.io/posts/the-price-of-wisdom/)
 - [Change of Schedule](https://le-bananafish.github.io/posts/change-of-schedule/)
 - [Indecision and Imitation](https://le-bananafish.github.io/posts/indecision-and-imitation/)
 - [A New Year 2021](https://le-bananafish.github.io/posts/a-new-year-2021/)
 - [Social Justice](https://le-bananafish.github.io/posts/social-justice/)
-- [New Horizons](https://le-bananafish.github.io/posts/new-horizons/)
 <!-- BLOG-POST-LIST:END -->
 
 ## See my activity on GH
