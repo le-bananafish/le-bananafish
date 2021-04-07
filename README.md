@@ -24,11 +24,11 @@ My goal for 2021, as mentioned in this (:point_right:) [post][ny-resolution], is
 These are the latest posts on my very own [website][website].
 
 <!-- BLOG-POST-LIST:START -->
+- [Maintenance, 2021](https://le-bananafish.github.io/posts/maintenance-2021/)
 - [I Haven't Been Writing](https://le-bananafish.github.io/posts/i-havent-been-writing/)
 - [The Price of Wisdom](https://le-bananafish.github.io/posts/the-price-of-wisdom/)
 - [Change of Schedule](https://le-bananafish.github.io/posts/change-of-schedule/)
 - [Indecision and Imitation](https://le-bananafish.github.io/posts/indecision-and-imitation/)
-- [A New Year 2021](https://le-bananafish.github.io/posts/a-new-year-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ## See my activity on GH
