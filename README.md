@@ -26,7 +26,7 @@ These are the latest posts on my very own [website][website].
 <!-- BLOG-POST-LIST:START -->
 - [July 2021](https://le-bananafish.github.io/posts/july-2021/)
 - [Maintenance, 2021](https://le-bananafish.github.io/posts/maintenance-2021/)
-- [I Haven't Been Writing](https://le-bananafish.github.io/posts/i-havent-been-writing/)
+- [I Haven&#39;t Been Writing](https://le-bananafish.github.io/posts/i-havent-been-writing/)
 - [The Price of Wisdom](https://le-bananafish.github.io/posts/the-price-of-wisdom/)
 - [Change of Schedule](https://le-bananafish.github.io/posts/change-of-schedule/)
 <!-- BLOG-POST-LIST:END -->
