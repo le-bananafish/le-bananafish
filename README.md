@@ -4,20 +4,25 @@
 
 My name is Sebastian Lau. I am either:
 
-- studying for my bachelor's degree in Computer Science and Linguistics, or
-- working on my _secret_ personal projects, or
-- am writing stories, taking naps, or streaming games.
+- studying for my bachelor's degree in Computer Science and Linguistics (I'm in my final semester!), or
+- pretending to work on my _personal_ projects, and by extension to be a writer, or
+- taking naps.
 
-My goal for 2021, as mentioned in this (:point_right:) [post][ny-resolution], is that:
+My goal for 2022, is mentioned here (:point_right:) [post][ny-resolution], is that:
+
+> I resolve to write more, work out the issues in my projects, and to be more willing to throw things out.
+
+which is an iteration on the one from 2021:
 
 > I promise to write at least one post per week, or at the bare minimum, once a month.
 
 ## How to reach me 🤔...
 
-- 🔴 You can catch my streams on [Twitch][twitch].
+<!-- - 🔴 You can catch my streams on [Twitch][twitch]. -->
 - 📖 Read my latest posts<sup>(nice collection below)</sup> on my [website][website].
 - 🖼 See my photos on [Instagram][instagram].
-- 🗣 Chat with me on [Discord][discord].
+- Or generally, look at my [Linktree](https://linktr.ee/sebastianlau) which has all the links :)
+<!-- - 🗣 Chat with me on [Discord][discord]. -->
 
 ## Latest posts!
 
@@ -42,4 +47,4 @@ These are the latest posts on my very own [website][website].
 [wattpad]: https://wattpad.com/user/_sebastianlau
 [instagram]: https://instagram.com/sebastianlau25
 [discord]: https://discord.gg/yHGxJGe
-[ny-resolution]: https://le-bananafish.github.io/posts/a-new-year-2021/
+[ny-resolution]: https://le-bananafish.github.io/posts/2021-in-review-hopes-for-2022/
