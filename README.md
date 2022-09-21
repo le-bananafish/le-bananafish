@@ -4,25 +4,23 @@
 
 My name is Sebastian Lau. I am either:
 
-- studying for my bachelor's degree in Computer Science and Linguistics (I'm in my final semester!), or
-- pretending to work on my _personal_ projects, and by extension to be a writer, or
+- working as a casual (feels more like part-time!), or
+- pretending to work on my _personal_ projects, or
 - taking naps.
 
-My goal for 2022, is mentioned here (:point_right:) [post][ny-resolution], is that:
+This year, I have:
+
+- completed my bachelor's degrees in (BSc) Computer Science and (BA) Linguistics and am waiting to graduate.
+
+My goal for 2022, as mentioned here (:point_right:) [post][ny-resolution], is:
 
 > I resolve to write more, work out the issues in my projects, and to be more willing to throw things out.
 
-which is an iteration on the one from 2021:
-
-> I promise to write at least one post per week, or at the bare minimum, once a month.
-
 ## How to reach me 🤔...
 
-<!-- - 🔴 You can catch my streams on [Twitch][twitch]. -->
 - 📖 Read my latest posts<sup>(nice collection below)</sup> on my [website][website].
-- 🖼 See my photos on [Instagram][instagram].
-- Or generally, look at my [Linktree](https://linktr.ee/sebastianlau) which has all the links :)
-<!-- - 🗣 Chat with me on [Discord][discord]. -->
+- 🖼 Check me out on [Instagram][instagram].
+- Or for all-in-one access, look at my [Linktree](https://linktr.ee/sebastianlau) for all the links :)
 
 ## Latest posts!
 
@@ -43,8 +41,5 @@ These are the latest posts on my very own [website][website].
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le-bananafish&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: https://le-bananafish.github.io/
-[twitch]: https://www.twitch.tv/bananafishrwx
-[wattpad]: https://wattpad.com/user/_sebastianlau
-[instagram]: https://instagram.com/sebastianlau25
-[discord]: https://discord.gg/yHGxJGe
+[instagram]: https://instagram.com/sebsworkshop
 [ny-resolution]: https://le-bananafish.github.io/posts/2021-in-review-hopes-for-2022/
