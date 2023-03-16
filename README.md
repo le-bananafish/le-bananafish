@@ -2,19 +2,16 @@
 
 > `NB:` _This section is still under construction, please be patient!_
 
-My name is Sebastian Lau. I am either:
+My name is Sebastian Lau. I am:
 
-- working as a casual (feels more like part-time!), or
-- pretending to work on my _personal_ projects, or
-- taking naps.
+- studying my postgraduate Bachelor of Arts (Honours) degree in Linguistics,
+- waiting to graduate with my completed bachelor's degrees in (BSc) Computer Science and (BA) Linguistics,
+- working as a casual at a retail bookstore,
+- and taking naps whenever else
 
-This year, I have:
+My goal for 2023, as mentioned here (:point_right:) [post][ny-resolution], is:
 
-- completed my bachelor's degrees in (BSc) Computer Science and (BA) Linguistics and am waiting to graduate.
-
-My goal for 2022, as mentioned here (:point_right:) [post][ny-resolution], is:
-
-> I resolve to write more, work out the issues in my projects, and to be more willing to throw things out.
+> [to] stop putting too much pressure on myself
 
 ## How to reach me 🤔...
 
@@ -24,7 +21,7 @@ My goal for 2022, as mentioned here (:point_right:) [post][ny-resolution], is:
 
 ## Latest posts!
 
-These are the latest posts on my very own [website][website].
+These are the latest posts on my [website][website].
 
 <!-- BLOG-POST-LIST:START -->
 - [2023](https://le-bananafish.github.io/posts/2023/)
@@ -42,4 +39,4 @@ These are the latest posts on my very own [website][website].
 
 [website]: https://le-bananafish.github.io/
 [instagram]: https://instagram.com/sebsworkshop
-[ny-resolution]: https://le-bananafish.github.io/posts/2021-in-review-hopes-for-2022/
+[ny-resolution]: https://le-bananafish.github.io/posts/2023/
