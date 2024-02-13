@@ -24,11 +24,11 @@ My goal for 2023, as mentioned here (:point_right:) [post][ny-resolution], is:
 These are the latest posts on my [website][website].
 
 <!-- BLOG-POST-LIST:START -->
+- [PSA: dated Feb. 2024](https://le-bananafish.github.io/posts/psa-february-2024/)
 - [2023](https://le-bananafish.github.io/posts/2023/)
 - [reflections : introduction](https://le-bananafish.github.io/posts/reflections-introduction/)
 - [2021 in Review // Hopes for 2022](https://le-bananafish.github.io/posts/2021-in-review-hopes-for-2022/)
 - [November 2021](https://le-bananafish.github.io/posts/november-2021/)
-- [July 2021](https://le-bananafish.github.io/posts/july-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ## See my activity on GH
